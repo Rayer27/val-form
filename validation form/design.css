@@ -1,0 +1,43 @@
+.comn{
+    box-shadow: black;
+    padding-top: 0.8rem;
+}
+.form{
+    border: 5px solid white;
+    max-width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-image: none;
+    padding:0rem 4rem;
+    border-radius: 0.1rem !important;
+  
+}
+.button{
+    margin-top: 0.5rem !important;
+    margin-bottom: auto !important;
+
+}
+label{
+    text-decoration: solid;
+    color: white;
+}
+.resp{
+    color: red;
+}
+body{
+    background-image: linear-gradient(97deg,skyblue,lightgreen);
+}
+.f{
+    padding:0rem 4rem;
+    border-radius: 0.1rem;
+}
+h1{
+    color: white !important; 
+}
+.cl1,.cl2{
+    color: white !important;
+}
+.c-pass{
+    margin-bottom: 1rem;
+}
